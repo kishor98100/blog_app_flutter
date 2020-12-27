@@ -1,0 +1,5 @@
+include: package:pedantic/analysis_options.yaml
+analyzer:
+  errors:
+    annotate_overrides: ignore
+    unawaited_futures: ignore
